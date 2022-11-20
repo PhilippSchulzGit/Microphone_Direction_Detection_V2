@@ -3,5 +3,4 @@ CAD and Code for version 2 of the setup to determine the direction of a sound so
 This setup is based on version 1 that can be found here:
 https://github.com/PhilippSchulzGit/Microphone_Direction_Detection_V1
 
-Check the video on YouTube for more detailed information:
-
+Check the video on YouTube for more detailed information: https://youtu.be/X_LpUPiswIs
